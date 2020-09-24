@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://songoex.github.io</id>
     <title>Gridea</title>
-    <updated>2020-09-24T06:09:44.974Z</updated>
+    <updated>2020-09-24T06:10:11.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://songoex.github.io"/>
     <link rel="self" href="https://songoex.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://songoex.github.io/post/appium/</id>
         <link href="https://songoex.github.io/post/appium/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
+        <updated>2020-09-24T06:09:57.000Z</updated>
         <content type="html"><![CDATA[<h2 id="appium-desktop">Appium Desktop</h2>
 <p><a href="https://github.com/appium/appium-desktop/releases">https://github.com/appium/appium-desktop/releases</a><br>
 下载可以参考这里：<a href="https://testerhome.com/topics/680">https://testerhome.com/topics/680</a></p>
